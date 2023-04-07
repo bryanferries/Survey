@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palestinian Conflict Survey</string>
+    <string name="palestine">Palestine</string>
+    <string name="israel">Israel</string>
+    <string name="conflict_opinion_question">\n If You Had to Choose...\n \n Would Your Views On the Conflict Be Closer to Pro-Palestine or Pro-Israel? \n</string>
+    <string name="count_space">_____</string>
+    <string name="clear">Clear</string>
+</resources>
